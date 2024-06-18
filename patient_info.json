@@ -1,0 +1,92 @@
+{
+    "patient_id": "98765",
+    "name": "Michael Johnson",
+    "age": 58,
+    "gender": "male",
+    "contact_info": {
+      "phone": "+1-234-567-8901",
+      "email": "michael.johnson@example.com",
+      "address": "123 Elm Street, Springfield, IL, USA"
+    },
+    "medical_history": {
+      "conditions": [
+        {
+          "name": "Diabetes Mellitus",
+          "diagnosis_date": "2005-06-15",
+          "treatment": "Metformin, Insulin",
+          "status": "ongoing"
+        },
+        {
+          "name": "Hypertension",
+          "diagnosis_date": "2010-09-20",
+          "treatment": "Lisinopril",
+          "status": "controlled"
+        },
+        {
+          "name": "Hyperlipidemia",
+          "diagnosis_date": "2015-03-10",
+          "treatment": "Atorvastatin",
+          "status": "controlled"
+        }
+      ],
+      "surgeries": [
+        {
+          "name": "Appendectomy",
+          "date": "1998-11-22",
+          "details": "Appendix removal surgery, no complications."
+        }
+      ],
+      "allergies": [
+        {
+          "name": "Penicillin",
+          "reaction": "Rash, itching"
+        }
+      ],
+      "family_history": {
+        "diabetes": "Father, mother",
+        "hypertension": "Father",
+        "heart_disease": "None"
+      },
+      "social_history": {
+        "smoking": "Never",
+        "alcohol": "Occasional",
+        "exercise": "Regular (3 times a week)"
+      }
+    },
+    "medications": [
+      {
+        "name": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily"
+      },
+      {
+        "name": "Insulin",
+        "dosage": "10 units",
+        "frequency": "Before meals"
+      },
+      {
+        "name": "Lisinopril",
+        "dosage": "10mg",
+        "frequency": "Once daily"
+      },
+      {
+        "name": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "Once daily"
+      }
+    ],
+    "recent_vitals": {
+      "heart_rate": 72,
+      "blood_pressure": "130/80",
+      "blood_glucose": "150 mg/dL (fasting)",
+      "oxygen_saturation": "98%"
+    },
+    "emergency_contacts": [
+      {
+        "name": "Sarah Johnson",
+        "relation": "Wife",
+        "phone": "+1-234-567-8902"
+      }
+    ]
+  }
+  
